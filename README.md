@@ -1,7 +1,5 @@
 # twitter-structure-streaming-project
 
-# Writing-and-Validating-Data-in-PySpark
-
 ## Resources for Setting up PySpark
 
 ### Windows
