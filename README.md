@@ -1,4 +1,5 @@
 # twitter-structure-streaming-project
+From live tweet feeds get the count of different hashtag values based on specific topic we are interested in.
 
 ## Resources for Setting up PySpark
 
